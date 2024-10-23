@@ -1,5 +1,5 @@
 ##Game Centre
-##Welecome to my Game Centre project!!! :)
+##Welcome to my Game Centre project!!! :)
 ##within this project, it contains three game (snakegame, tic-tac-toe, and pong)
 ![Screenshot 2024-01-27 142745](https://github.com/dnzxvy/game-centre/assets/126788109/bea4f34b-b4c8-4912-acd4-603216eaa9ef)
 
